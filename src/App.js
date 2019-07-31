@@ -6,7 +6,7 @@ import './App.css';
 function App() {
     return (
         <div id='contain'>
-            <h1>Wellcom to Pareact</h1>
+            <h1>Welcome to Pareact</h1>
 
             <Router>
                 <ul>
