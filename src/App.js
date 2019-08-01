@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, BrowserRouter as Router, Route } from 'react-router-dom'
 import Home from './components/home'
 import About from './components/about'
+import Counter from './components/counter'
 import './App.css';
 function App() {
     return (
@@ -12,9 +13,11 @@ function App() {
                 <ul>
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='/about'>About</Link></li>
+                    <li><Link to='/counter'>Counter(redux)</Link></li>
                 </ul>
                 <Route path='/' exact component={Home} />
                 <Route path='/about' exact component={About} />
+                <Route path='/counter' exact component={Counter} />
             </Router>
             <a href='https://github.com/qiuquanwu/pareact'>
             <svg className="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true">
