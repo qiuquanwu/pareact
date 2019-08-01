@@ -8,7 +8,6 @@ function App() {
     return (
         <div id='contain'>
             <h1>Welcome to Pareact</h1>
-
             <Router>
                 <ul>
                     <li><Link to='/'>Home</Link></li>
