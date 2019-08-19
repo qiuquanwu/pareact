@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {connect} from 'react-redux'
-import './counter.css'
+import './counter.styl'
 class Counter extends Component {
     constructor(props) {
         super(props);
