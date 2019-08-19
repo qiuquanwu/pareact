@@ -21,6 +21,8 @@
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.12.3",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
   }
 }

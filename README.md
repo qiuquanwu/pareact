@@ -4,10 +4,11 @@
 - 21:46 星期三 2019年7月31日 添加react-router-dom支持
 - 12:40 星期四 2019年8月1日 修复jsx语法bug
 - 13:26 星期四 2019年8月1日 添加react-redux支持
+- 13:20 星期一 2019年8月19日 添加stylus支持
 
 ### 关键词
 
-`react`、`parcel` 、`react-router-dom` 、`react-redux`
+`react`、`parcel` 、`react-router-dom` 、`react-redux`、`stylus`
 
 ## 使用方法
 ```
