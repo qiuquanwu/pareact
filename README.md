@@ -24,7 +24,11 @@ npm run dev
 
 
 #### 预览图
-![QQ截图20190801132756.png](https://i.loli.net/2019/08/01/5d4278640391069903.png)
+
+
+![QQ截图20190819201405.png](https://i.loli.net/2019/08/19/R9LzJdMZbY6NyCH.png)
+
+
 
 
 ### 求职
