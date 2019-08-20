@@ -5,6 +5,7 @@
 - 12:40 星期四 2019年8月1日 修复jsx语法bug
 - 13:26 星期四 2019年8月1日 添加react-redux支持
 - 13:20 星期一 2019年8月19日 添加stylus支持
+- 22:08 星期二 2019年8月19日 添加autoprefixer支持
 
 ### 关键词
 
@@ -46,7 +47,7 @@ npm run dev
 
 #### HTML/CSS
 - 熟悉HTML标签语法，以及HTML5新增特性，HTML语义化。
-- 熟悉Css/Css3转换，动画的基本用法，熟悉Less,Stylus等Css预处理语言。
+- 熟悉Css/Css3盒子模型，转换，动画的基本用法，熟悉Less,Stylus等Css预处理语言。
 
 #### JavaScript
 - 熟悉JavaScript基础语法，面向对象，闭包，原型链，内置对象，正则表达式。
@@ -59,14 +60,14 @@ npm run dev
 - 熟悉Web本地化存储（seesionStorage,localStorage），数据持久化。
 
 #### 后端
-- 熟悉PHP语言及其Laravel框架，swoole扩展。
+- 熟悉PHP语言及其Laravel框架，swoole扩展及其框架（比如swoft）。
 - 熟悉node.js,Koa2,Express4等框架。
 - 熟悉Golang以及beego，gin等框架。
 
 #### 其他
 - 熟悉mysql(关系型数据库)+mongoDB（nosql）+redis等数据库。
 - 熟悉小程序开发。
-- 熟悉Docker容器，RPC（分布式架构通信），K8s(分布式集群管理)。
+- 熟悉Docker容器，RPC（分布式架构通信），K8s(分布式集群管理)，微服务。
 - 熟悉git版本控制工具。
 - 熟悉linux操作系统。
 

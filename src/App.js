@@ -3,7 +3,8 @@ import { Link, BrowserRouter as Router, Route } from 'react-router-dom'
 import Home from './components/home'
 import About from './components/about'
 import Counter from './components/counter'
-import './App.styl';
+import './App.styl'
+
 function App() {
     return (
         <div id='contain'>
